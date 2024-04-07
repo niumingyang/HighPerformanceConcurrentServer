@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "functional": "cpp",
+        "stdexcept": "cpp",
+        "future": "cpp",
+        "chrono": "cpp"
+    }
+}
